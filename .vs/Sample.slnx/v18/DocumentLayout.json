@@ -1,0 +1,381 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\risti\\source\\repos\\Sample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form17.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form14.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form16.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form8.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form9.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form10.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|C:\\Users\\risti\\source\\repos\\Sample\\sample\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form11.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form13.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|c:\\users\\risti\\source\\repos\\sample\\sample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5A7F8005-C165-6259-8009-1115B9A95056}|Sample\\Sample.csproj|solutionrelative:sample\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 18,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Form4.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form4.cs",
+              "RelativeDocumentMoniker": "Sample\\Form4.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form4.cs",
+              "RelativeToolTip": "Sample\\Form4.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwD0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:44:08.327Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Form8.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form8.cs",
+              "RelativeDocumentMoniker": "Sample\\Form8.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form8.cs",
+              "RelativeToolTip": "Sample\\Form8.cs",
+              "ViewState": "AgIAAGIAAAAAAAAAAAAkwHMAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:43:56.516Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Form2.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form2.cs",
+              "RelativeDocumentMoniker": "Sample\\Form2.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form2.cs",
+              "RelativeToolTip": "Sample\\Form2.cs",
+              "ViewState": "AgIAAEEAAAAAAAAAAAAQwE8AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:37:30.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Form13.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form13.cs",
+              "RelativeDocumentMoniker": "Sample\\Form13.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form13.cs",
+              "RelativeToolTip": "Sample\\Form13.cs",
+              "ViewState": "AgIAAHwAAAAAAAAAAAAYwI0AAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:25:28.141Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Form5.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form5.cs",
+              "RelativeDocumentMoniker": "Sample\\Form5.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form5.cs",
+              "RelativeToolTip": "Sample\\Form5.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAAYwFsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-18T18:24:07.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Form13.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form13.cs",
+              "RelativeDocumentMoniker": "Sample\\Form13.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form13.cs [Design]",
+              "RelativeToolTip": "Sample\\Form13.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:00:43.006Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Form11.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form11.cs",
+              "RelativeDocumentMoniker": "Sample\\Form11.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form11.cs [Design]",
+              "RelativeToolTip": "Sample\\Form11.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:00:39.054Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Form10.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form10.cs",
+              "RelativeDocumentMoniker": "Sample\\Form10.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form10.cs [Design]",
+              "RelativeToolTip": "Sample\\Form10.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:00:36.861Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Form9.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form9.cs",
+              "RelativeDocumentMoniker": "Sample\\Form9.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form9.cs [Design]",
+              "RelativeToolTip": "Sample\\Form9.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:00:28.646Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Form8.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form8.cs",
+              "RelativeDocumentMoniker": "Sample\\Form8.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form8.cs [Design]",
+              "RelativeToolTip": "Sample\\Form8.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:00:26.844Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Form5.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form5.cs",
+              "RelativeDocumentMoniker": "Sample\\Form5.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form5.cs [Design]",
+              "RelativeToolTip": "Sample\\Form5.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:00:04.734Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Form4.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form4.cs",
+              "RelativeDocumentMoniker": "Sample\\Form4.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form4.cs [Design]",
+              "RelativeToolTip": "Sample\\Form4.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T21:00:02.603Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Form3.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form3.cs",
+              "RelativeDocumentMoniker": "Sample\\Form3.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form3.cs [Design]",
+              "RelativeToolTip": "Sample\\Form3.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:59:59.878Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Form2.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form2.cs",
+              "RelativeDocumentMoniker": "Sample\\Form2.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form2.cs [Design]",
+              "RelativeToolTip": "Sample\\Form2.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:59:57.48Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form1.cs",
+              "RelativeDocumentMoniker": "Sample\\Form1.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form1.cs [Design]",
+              "RelativeToolTip": "Sample\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:59:49.279Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form14.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form14.cs",
+              "RelativeDocumentMoniker": "Sample\\Form14.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form14.cs",
+              "RelativeToolTip": "Sample\\Form14.cs",
+              "ViewState": "AgIAABIBAAAAAAAAAAAYwCMBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:57:47.335Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Form16.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form16.cs",
+              "RelativeDocumentMoniker": "Sample\\Form16.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form16.cs",
+              "RelativeToolTip": "Sample\\Form16.cs",
+              "ViewState": "AgIAAGYBAAAAAAAAAAAYwHcBAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:57:28.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form1.cs",
+              "RelativeDocumentMoniker": "Sample\\Form1.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form1.cs",
+              "RelativeToolTip": "Sample\\Form1.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAQwFwAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:56:11.459Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form17.cs",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form17.cs",
+              "RelativeDocumentMoniker": "Sample\\Form17.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form17.cs",
+              "RelativeToolTip": "Sample\\Form17.cs",
+              "ViewState": "AgIAAEoAAAAAAAAAAIAwwFkAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:57:09.508Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form16.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form16.cs",
+              "RelativeDocumentMoniker": "Sample\\Form16.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form16.cs [Design]",
+              "RelativeToolTip": "Sample\\Form16.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:52:10.592Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form14.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form14.cs",
+              "RelativeDocumentMoniker": "Sample\\Form14.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form14.cs [Design]",
+              "RelativeToolTip": "Sample\\Form14.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:52:07.358Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form17.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form17.cs",
+              "RelativeDocumentMoniker": "Sample\\Form17.cs",
+              "ToolTip": "C:\\Users\\risti\\source\\repos\\Sample\\Sample\\Form17.cs [Design]",
+              "RelativeToolTip": "Sample\\Form17.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-16T20:50:04.02Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
