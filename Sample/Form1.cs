@@ -36,7 +36,9 @@ namespace Sample
 
         private void button1_Click_1(object sender, EventArgs e)
         {
-
+            Form14 form14 = new Form14();
+            form14.Show();
+            this.Hide();
         }
 
         private void label3_Click(object sender, EventArgs e)
